@@ -9,3 +9,5 @@ export const NoMatch = () => (
 
 
 )
+
+export default NoMatch;
