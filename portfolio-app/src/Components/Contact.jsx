@@ -1,12 +1,29 @@
 import React from 'react';
+import styled from 'styled-components';
+import { Container } from 'react-bootstrap';
+
+const Styles = styled.div`
+    .container {
+        text-align: center;
+        
+    }
+`;
+
+
 
 export const Contact = () => (
-    <div>
-        <h2>Contact Us</h2>
-        <p>Battle marvelous hatred oneself contradict spirit philosophy insofar. Dead god oneself decieve dead hope of mountains horror spirit oneself. Faith overcome of eternal-return disgust madness transvaluation ultimate abstract pious law ideal. Free philosophy aversion value love decieve burying.</p>
-    
-       
-    </div>
+<Styles>
+    <Container className="container">
+        <div className="contact-wrapper">
+            <h2 className="contact">Contact:</h2>
+            <h3>johnnydk77@gmail.com</h3>
+            <h3>718.704.9406</h3>
+
+        </div>
+
+    </Container>
+
+    </Styles>
 )
 
 export default Contact;

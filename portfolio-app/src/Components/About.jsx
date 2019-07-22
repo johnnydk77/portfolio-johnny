@@ -1,12 +1,15 @@
-import React from 'react';
+// import React from 'react';
+// import { Container } from 'react-bootstrap';
+// import myImage2 from '../assets/myImage2.jpg'
 
-export const About = () => (
-    <div>
-        <h2>About Page!</h2>
-        <p>Battle marvelous hatred oneself contradict spirit philosophy insofar. Dead god oneself decieve dead hope of mountains horror spirit oneself. Faith overcome of eternal-return disgust madness transvaluation ultimate abstract pious law ideal. Free philosophy aversion value love decieve burying.</p>
-    
-        <p>Battle marvelous hatred oneself contradict spirit philosophy insofar. Dead god oneself decieve dead hope of mountains horror spirit oneself. Faith overcome of eternal-return disgust madness transvaluation ultimate abstract pious law ideal. Free philosophy aversion value love decieve burying.</p>
-    </div>
-)
+// export const About = () => (
+//     <Container>
+//     <div>
+//         <h2>About Me.</h2>
+//         <img className='about-image'src={myImage2} alt="about image"/>
+        
+//     </div>
+//     </Container>
+// )
 
-export default About;
+// export default About;
