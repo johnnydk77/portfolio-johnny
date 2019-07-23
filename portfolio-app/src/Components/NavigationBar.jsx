@@ -9,12 +9,18 @@ const Styles = styled.div`
 }
 
 .navbar-brand, .navbar-nav .nav-link {
-    color: #bbb;
+    color: #c5cdd9;
     
     &:hover {
         color: white;
     } 
 }
+
+
+.navbar-toggle {
+    color: #bbb;
+}
+
 
 .link {
     color: #bbb;
